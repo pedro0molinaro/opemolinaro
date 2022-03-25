@@ -29,5 +29,5 @@
 </div>
   
   
-    ## Snake eating my contribution graph
-    ![snake gif](https://github.com/opemolinaro/opemolinaro/blob/output/dist/github-contribution-grid-snake.gif)
+  
+ ![snake gif](https://github.com/opemolinaro/opemolinaro/blob/output/github-contribution-grid-snake.gif)
